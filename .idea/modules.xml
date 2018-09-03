@@ -5,6 +5,18 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlinExercism.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlinExercism.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlinExercism_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlinExercism_main.iml" group="kotlinExercism" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlinExercism_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlinExercism_test.iml" group="kotlinExercism" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/leap/leap.iml" filepath="$PROJECT_DIR$/.idea/modules/leap/leap.iml" group="leap" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/leap/leap_main.iml" filepath="$PROJECT_DIR$/.idea/modules/leap/leap_main.iml" group="leap" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/leap/leap_test.iml" filepath="$PROJECT_DIR$/.idea/modules/leap/leap_test.iml" group="leap" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pangram/pangram.iml" filepath="$PROJECT_DIR$/.idea/modules/pangram/pangram.iml" group="pangram" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pangram/pangram_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pangram/pangram_main.iml" group="pangram" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pangram/pangram_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pangram/pangram_test.iml" group="pangram" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/raindrops/raindrops.iml" filepath="$PROJECT_DIR$/.idea/modules/raindrops/raindrops.iml" group="raindrops" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/raindrops/raindrops_main.iml" filepath="$PROJECT_DIR$/.idea/modules/raindrops/raindrops_main.iml" group="raindrops" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/raindrops/raindrops_test.iml" filepath="$PROJECT_DIR$/.idea/modules/raindrops/raindrops_test.iml" group="raindrops" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rna-transcription/rna-transcription.iml" filepath="$PROJECT_DIR$/.idea/modules/rna-transcription/rna-transcription.iml" group="rna-transcription" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rna-transcription/rna-transcription_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rna-transcription/rna-transcription_main.iml" group="rna-transcription" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rna-transcription/rna-transcription_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rna-transcription/rna-transcription_test.iml" group="rna-transcription" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/two-fer/two-fer.iml" filepath="$PROJECT_DIR$/.idea/modules/two-fer/two-fer.iml" group="two-fer" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/two-fer/two-fer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/two-fer/two-fer_main.iml" group="two-fer" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/two-fer/two-fer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/two-fer/two-fer_test.iml" group="two-fer" />

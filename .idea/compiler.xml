@@ -6,6 +6,14 @@
       <module name="kotlin_test" target="1.8" />
       <module name="kotlinExercism_main" target="1.8" />
       <module name="kotlinExercism_test" target="1.8" />
+      <module name="leap_main" target="1.8" />
+      <module name="leap_test" target="1.8" />
+      <module name="pangram_main" target="1.8" />
+      <module name="pangram_test" target="1.8" />
+      <module name="raindrops_main" target="1.8" />
+      <module name="raindrops_test" target="1.8" />
+      <module name="rna-transcription_main" target="1.8" />
+      <module name="rna-transcription_test" target="1.8" />
       <module name="two-fer_main" target="1.8" />
       <module name="two-fer_test" target="1.8" />
     </bytecodeTargetLevel>

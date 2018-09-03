@@ -9,6 +9,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/leap" />
+            <option value="$PROJECT_DIR$/pangram" />
+            <option value="$PROJECT_DIR$/raindrops" />
+            <option value="$PROJECT_DIR$/rna-transcription" />
             <option value="$PROJECT_DIR$/two-fer" />
           </set>
         </option>
